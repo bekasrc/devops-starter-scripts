@@ -1,0 +1,11 @@
+=================================================
+System Check started at: 2025-10-04 16:55:58
+-------------------------------------------------
+Memory Usage (free -h):
+Mem:           7.5Gi       365Mi       6.9Gi       3.0Mi       168Mi       7.0Gi
+
+Docker Status (systemctl):
+
+Running Docker Containers (docker ps):
+System Check finished.
+=================================================
