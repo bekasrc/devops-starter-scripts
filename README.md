@@ -2,3 +2,4 @@
 Devops training
 Bekarystan
 Beryk
+Beksultan
