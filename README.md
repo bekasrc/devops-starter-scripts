@@ -1,5 +1,2 @@
 # devops-starter-scripts
-Devops training
-Bekarystan
-Beryk
-Beksultan
+Этот репозиторий используется для изучения DevOps по дорожной карте 2025
