@@ -6,12 +6,8 @@
 
 # 1. Получаем входные аргументы
 SERVICE_NAME="$1"
-SERVICE_N="$2"
-DATE_TIME=$(date +"%Y-%m-%d %H:%M:%S")
-echo "=============================="
-echo "$DATE_TIME"
-echo "$SERVICE_NAME"
-if [ "$2" = "UP" ]; then
+systemctl status docker > /dev/null 2>&1
+if [ $? -eq 0  ]; then
     echo "fgbhgff"
 elif [ "$2" = "DOWN" ]; then
 echo "Не запустился"
